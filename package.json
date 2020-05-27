@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/chengyu-l/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "dependencies": {
+    "hexo-generator-baidu-sitemap": "^0.1.6",
+    "hexo-generator-feed": "^2.2.0",
+    "hexo-generator-json-content": "^4.2.3",
+    "hexo-generator-sitemap": "^2.0.0",
+    "hexo-renderer-markdown-it-plus": "^1.0.4",
+    "hexo-wordcount": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengyu-l/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengyu-l/blog/issues"
+  },
+  "homepage": "https://github.com/chengyu-l/blog#readme"
+}
